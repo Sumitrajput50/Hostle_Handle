@@ -1,0 +1,10 @@
+/sumit
+/SellPurchase/__pycache__
+/sellpurchase/middlewares/__pycache__
+/sellpurchase/migrations
+/sellpurchase/models/__pycache__
+/sellpurchase/views/__pycache__
+/Hostel_Handle/__pycache__
+/Hostel_Handle/wsgi.py
+/Hostel_Handle/settings.py
+/Hostel_Handle/asgi.py
